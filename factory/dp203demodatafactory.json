@@ -1,0 +1,9 @@
+{
+	"name": "dp203demodatafactory",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56ddbac5-b403-4847-ae63-7d831af2872e",
+		"tenantId": "5b5d9e4c-c8a9-4e20-8b87-62b209bc1a63"
+	}
+}
